@@ -1,0 +1,31 @@
+---
+title: "Sara Faiad"
+image: "square_headshot.jpg"
+links:
+  - label: Twitter
+    url: "https://twitter.com/sara_faiad"
+  - label: GitHub
+    url: "https://github.com/sfaiad"
+  - label: Email
+    url: "sfaiad@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Sara Faiad is a Ph.D. student in the School of Aquatic and Fishery Sciences at the University of Washington. Her research focuses on the intersection of animal behavior and disease ecology, focusing on parasitology. 
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+Ph.D. in Aquatic and Fishery Sciences | September 2019 - *present*
+
+**Bucknell University** | Lewisburg, PA
+
+M.S. in Animal Behavior | August 2015 - May 2017
+
+**Waynesburg University** | Waynesburg, PA
+
+B. A. in Psychology, minor in Biology | August 2011 - May 2015
